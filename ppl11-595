@@ -1,0 +1,119 @@
+{
+  "beginning": "2012-06-14",
+  "end": "2012-06-26",
+  "long_title": "proposition de loi visant à abroger la loi n° 2012-376 du 20 mars 2012 relative à la majoration des droits à construire",
+  "short_title": "Majoration des droits à construire",
+  "steps": [
+    {
+      "date": "2012-06-14",
+      "directory": "00_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2012-06-14",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl11-595.html",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "amendement_directory": "01_1èrelecture_senat_commission/amendements",
+      "date": "2012-06-27",
+      "directory": "01_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2012-07-04",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 3,
+      "resulting_text_directory": "01_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/ppl11-633.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_senat_hemicycle/amendements",
+      "date": "2012-07-10",
+      "directory": "02_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2012-07-10",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "02_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2012-07-10T14:30_8122"
+      ],
+      "nb_amendements": 10,
+      "resulting_text_directory": "02_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas11-122.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2012-07-10",
+      "directory": "03_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2012-07-10",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/propositions/pion0076.asp",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2012-07-17",
+      "directory": "04_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2012-07-17",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "04_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2012-07-17T16:15_60"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r0084-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2012-07-25",
+      "directory": "05_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2012-07-25",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "05_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2012-07-25T15:00_108",
+        "2012-07-25T21:30_112"
+      ],
+      "nb_amendements": 15,
+      "resulting_text_directory": "05_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0010.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2012-08-06",
+      "echec": null,
+      "enddate": "2012-08-06",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026263562",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "urgence",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/abrogation_loi_2012-376.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/ppl11-595.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026263562"
+}

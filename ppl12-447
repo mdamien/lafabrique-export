@@ -1,0 +1,116 @@
+{
+  "beginning": "2013-03-26",
+  "end": "2013-10-17",
+  "long_title": "proposition de loi visant à prolonger la durée de vie des agences pour la mise en valeur des espaces urbains de la zone dite des cinquante pas géométriques",
+  "short_title": "Zone dite des cinquante pas géométriques",
+  "steps": [
+    {
+      "date": "2013-03-26",
+      "directory": "00_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2013-03-26",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl12-447.html",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "amendement_directory": "01_1èrelecture_senat_commission/amendements",
+      "date": "2013-04-17",
+      "directory": "01_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2013-05-14",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 2,
+      "resulting_text_directory": "01_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/ppl12-567.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_senat_hemicycle/amendements",
+      "date": "2013-05-21",
+      "directory": "02_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2013-05-21",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "02_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2013-05-21T21:45_9366",
+        "2013-05-23T09:30_9378",
+        "2013-05-24T09:45_9384",
+        "2013-05-21T14:30_9365"
+      ],
+      "nb_amendements": 2,
+      "resulting_text_directory": "02_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas12-149.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2013-05-22",
+      "directory": "03_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2013-05-22",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/propositions/pion1048.asp",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2013-05-22",
+      "directory": "04_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2013-09-19",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r1389-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "date": "2013-10-02",
+      "directory": "05_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2013-10-02",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "05_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2013-10-02T21:30_1973"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "05_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0218.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2013-10-17",
+      "echec": null,
+      "enddate": "2013-10-17",
+      "institution": "gouvernement",
+      "source_url": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028080969",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/cinquante_pas_geometriques_espaces_urbains.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/ppl12-447.html",
+  "url_jo": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028080969"
+}

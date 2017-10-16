@@ -1,0 +1,111 @@
+{
+  "beginning": "2010-11-10",
+  "end": "2011-06-20",
+  "long_title": "projet de loi autorisant l'approbation de la convention de sécurité sociale entre le gouvernement de la République française et le gouvernement de la République argentine",
+  "short_title": "Argentine",
+  "steps": [
+    {
+      "date": "2010-11-10",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2010-11-10",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/projets/pl2938.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2011-03-16",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2011-03-16",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "01_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2011-03-16T10:00_4767"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/rapports/r3250.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "date": "2011-03-16",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2011-04-07",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0637.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2011-04-07",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2011-04-07",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl10-413.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2011-06-01",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2011-06-01",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "04_1èrelecture_senat_commission/interventions",
+      "intervention_files": [
+        "2011-06-01T1èreséance_4955"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl10-574.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "date": "2011-06-08",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2011-06-08",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas10-138.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2011-06-20",
+      "echec": null,
+      "enddate": "2011-06-20",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024214810",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/Argentine_conv_securite_sociale.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl10-413.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024214810"
+}

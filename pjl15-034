@@ -1,0 +1,169 @@
+{
+  "beginning": "2015-07-31",
+  "end": "2015-07-31",
+  "long_title": "projet de loi relatif à la gratuité et aux modalités de la réutilisation des informations du secteur public",
+  "short_title": "Réutilisation des informations du secteur public",
+  "steps": [
+    {
+      "date": "2015-07-31",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2015-07-31",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/projets/pl3037.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "amendement_directory": "01_1èrelecture_assemblee_commission/amendements",
+      "date": "2015-09-16",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2015-09-30",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "01_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2015-09-29T16:00_5495"
+      ],
+      "nb_amendements": 44,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r3090-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2015-10-06",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2015-10-06",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2015-10-06T15:00_5542"
+      ],
+      "nb_amendements": 39,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0593.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2015-10-07",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2015-10-07",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl15-034.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "amendement_directory": "04_1èrelecture_senat_commission/amendements",
+      "date": "2015-10-16",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2015-10-21",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 13,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl15-094.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_senat_hemicycle/amendements",
+      "date": "2015-10-26",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2015-10-26",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "05_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2015-10-26T16:00_13559"
+      ],
+      "nb_amendements": 22,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas15-023.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2015-11-24",
+      "directory": "06_CMP_CMP_commission",
+      "echec": null,
+      "enddate": "2015-11-24",
+      "has_interventions": false,
+      "institution": "CMP",
+      "nb_amendements": 0,
+      "resulting_text_directory": "06_CMP_CMP_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl15-189.html",
+      "stage": "CMP",
+      "step": "commission",
+      "working_text_directory": "05_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2015-12-09",
+      "directory": "07_CMP_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2015-12-09",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "07_CMP_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2015-12-09T15:00_5977"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "07_CMP_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0628.asp",
+      "stage": "CMP",
+      "step": "hemicycle",
+      "working_text_directory": "06_CMP_CMP_commission/texte"
+    },
+    {
+      "date": "2015-12-17",
+      "directory": "08_CMP_senat_hemicycle",
+      "echec": null,
+      "enddate": "2015-12-17",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "08_CMP_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2015-12-17T10:30_13966"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "08_CMP_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas15-063.html",
+      "stage": "CMP",
+      "step": "hemicycle",
+      "working_text_directory": "07_CMP_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2015-12-28",
+      "echec": null,
+      "enddate": "2015-12-28",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/eli/loi/2015/12/28/PRMX1515110L/jo/texte",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "urgence",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/reutilisation_informations_secteur_public.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl15-034.html",
+  "url_jo": "http://www.legifrance.gouv.fr/eli/loi/2015/12/28/PRMX1515110L/jo/texte"
+}

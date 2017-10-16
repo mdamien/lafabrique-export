@@ -1,0 +1,116 @@
+{
+  "beginning": "2011-03-02",
+  "end": "2011-07-20",
+  "long_title": "projet de loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement des Émirats arabes unis relatif à la coopération en matière de défense ainsi qu'un échange de lettres",
+  "short_title": "Emirats arabes unis",
+  "steps": [
+    {
+      "date": "2011-03-02",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2011-03-02",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/projets/pl3193.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2011-04-06",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2011-05-24",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "01_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2011-05-24T17:00_4990",
+        "2011-04-06T10:30_4838"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/rapports/r3455.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "date": "2011-05-24",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2011-06-14",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2011-06-14T15:00_5085"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0686.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2011-06-14",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2011-06-14",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl10-613.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2011-06-17",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2011-07-06",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl10-725.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "date": "2011-07-12",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2011-07-12",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "05_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2011-07-12T14:30_425"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas10-185.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2011-07-20",
+      "echec": null,
+      "enddate": "2011-07-20",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024385879",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/cooperation_defense_EAU.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl10-613.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024385879"
+}

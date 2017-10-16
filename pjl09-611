@@ -1,0 +1,113 @@
+{
+  "beginning": "2009-12-23",
+  "end": "2011-01-05",
+  "long_title": "projet de loi relatif à la reconversion des militaires",
+  "short_title": "Militaires",
+  "steps": [
+    {
+      "date": "2009-12-23",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2009-12-23",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/projets/pl2212.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2010-01-27",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2010-04-06",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r2436-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2010-07-06",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2010-07-06",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2010-07-06T09:30_4003"
+      ],
+      "nb_amendements": 12,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0509.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2010-07-06",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2010-07-06",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl09-611.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2010-12-07",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2010-12-07",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl10-154.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "date": "2010-12-22",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2010-12-22",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "05_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2010-06-03T15:00_465",
+        "2010-12-22T14:30_337"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas10-047.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2011-01-05",
+      "echec": null,
+      "enddate": "2011-01-05",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023367900",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/militaires_reconversion.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl09-611.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023367900"
+}

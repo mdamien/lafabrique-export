@@ -1,0 +1,107 @@
+{
+  "beginning": "2012-02-23",
+  "end": "2012-10-26",
+  "long_title": "projet de loi autorisant la ratification du traité relatif à l'établissement du bloc d'espace aérien fonctionnel « Europe Central »",
+  "short_title": "Bloc d'espace aérien fonctionnel",
+  "steps": [
+    {
+      "date": "2012-02-23",
+      "directory": "00_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2012-02-23",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl11-421.html",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2012-06-26",
+      "directory": "01_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2012-07-10",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "01_1èrelecture_senat_commission/interventions",
+      "intervention_files": [
+        "2012-07-10T1èreséance_8140"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl11-645.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_senat_depot/texte"
+    },
+    {
+      "date": "2012-07-18",
+      "directory": "02_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2012-07-18",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "02_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas11-129.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2012-07-19",
+      "directory": "03_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2012-07-19",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/projets/pl0105.asp",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2012-10-17",
+      "directory": "04_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2012-10-17",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/rapports/r0299.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "date": "2012-10-19",
+      "directory": "05_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2012-10-19",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "05_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0027.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2012-10-26",
+      "echec": null,
+      "enddate": "2012-10-26",
+      "institution": "gouvernement",
+      "source_url": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026536629",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/bloc_espace_aerien_fonctionnel_EC.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl11-421.html",
+  "url_jo": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026536629"
+}

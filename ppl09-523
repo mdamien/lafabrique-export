@@ -1,0 +1,115 @@
+{
+  "beginning": "2009-12-15",
+  "end": "2012-03-09",
+  "long_title": "proposition de loi modifiant la loi n° 99-418 du 26 mai 1999 créant le Conseil national des communes « Compagnon de la Libération »",
+  "short_title": "Conseil national des communes \"Compagnon de la Libération\"",
+  "steps": [
+    {
+      "date": "2009-12-15",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2009-12-15",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/propositions/pion2157.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2009-12-15",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2010-05-26",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r2564-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "date": "2010-06-03",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2010-06-03",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2010-06-03T10:00_3699"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0471.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2010-06-03",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2010-06-03",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl09-523.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2011-10-12",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2012-02-14",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "04_1èrelecture_senat_commission/interventions",
+      "intervention_files": [
+        "2012-02-14T1èreséance_7890"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/ppl11-362.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "date": "2012-02-28",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2012-02-28",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "05_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2012-02-28T14:30_7802"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas11-099.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2012-03-09",
+      "echec": null,
+      "enddate": "2012-03-09",
+      "institution": "gouvernement",
+      "source_url": "http://legifrance.gouv.fr/./affichTexte.do?cidTexte=JORFTEXT000025467729",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/modif_conseil_nat_communes_liberation.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/ppl09-523.html",
+  "url_jo": "http://legifrance.gouv.fr/./affichTexte.do?cidTexte=JORFTEXT000025467729"
+}

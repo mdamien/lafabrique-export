@@ -1,0 +1,111 @@
+{
+  "beginning": "2011-04-06",
+  "end": "2012-12-28",
+  "long_title": "projet de loi autorisant l'approbation du protocole n° 3 à la convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales relatif aux groupements eurorégionaux de coopération (GEC)",
+  "short_title": "Groupements eurorégionaux de coopération (GEC)",
+  "steps": [
+    {
+      "date": "2011-04-06",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2011-04-06",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/projets/pl3317.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2011-11-22",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2011-11-22",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/rapports/r3996.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "date": "2011-11-24",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2011-11-24",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2011-11-24T09:30_5639"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0769.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2011-11-24",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2011-11-24",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl11-132.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2012-12-12",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2012-12-12",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "04_1èrelecture_senat_commission/interventions",
+      "intervention_files": [
+        "2012-12-12T1èreséance_8754"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl12-208.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "date": "2012-12-18",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2012-12-18",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas12-053.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2012-12-28",
+      "echec": null,
+      "enddate": "2012-12-28",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026855133",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/Approbation_protocole_convention_cadre_europeenne_GEC.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl11-132.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026855133"
+}

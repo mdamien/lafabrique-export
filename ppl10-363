@@ -1,0 +1,133 @@
+{
+  "beginning": "2011-02-04",
+  "end": "2011-03-17",
+  "long_title": "proposition de loi relative à l'organisation du championnat d'Europe de football de l'UEFA en 2016",
+  "short_title": "Championnat d'Europe de football de l'UEFA en 2016",
+  "steps": [
+    {
+      "date": "2011-02-04",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2011-02-04",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/propositions/pion3149.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2011-02-04",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2011-03-17",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "01_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2011-03-08T17:30_4737"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r3203-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2011-03-22",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2011-03-22",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2011-03-22T15:00_4781",
+        "2011-03-22T21:30_4782"
+      ],
+      "nb_amendements": 6,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0625.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2011-03-23",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2011-03-23",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl10-363.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "amendement_directory": "04_1èrelecture_senat_commission/amendements",
+      "date": "2011-03-29",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2011-04-27",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "04_1èrelecture_senat_commission/interventions",
+      "intervention_files": [
+        "2011-04-13T1èreséance_2150",
+        "2011-04-27T1èreséance_3074"
+      ],
+      "nb_amendements": 8,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/ppl10-440.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_senat_hemicycle/amendements",
+      "date": "2011-04-27",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2011-04-27",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "05_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2011-04-27T14:30_1059"
+      ],
+      "nb_amendements": 13,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas10-101.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2011-05-26",
+      "decision": "conforme",
+      "echec": null,
+      "enddate": "2011-05-26",
+      "institution": "conseil constitutionnel",
+      "source_url": "http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2011/2011-630-dc/decision-n-2011-630-dc-du-26-mai-2011.97182.html",
+      "stage": "constitutionnalité"
+    },
+    {
+      "date": "2011-06-01",
+      "echec": null,
+      "enddate": "2011-06-01",
+      "institution": "gouvernement",
+      "source_url": "http://legifrance.gouv.fr/./affichTexte.do?cidTexte=JORFTEXT000024109792",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "urgence",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/UEFA_2016.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/ppl10-363.html",
+  "url_jo": "http://legifrance.gouv.fr/./affichTexte.do?cidTexte=JORFTEXT000024109792"
+}

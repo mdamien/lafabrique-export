@@ -1,0 +1,111 @@
+{
+  "beginning": "2013-06-19",
+  "end": "2013-11-13",
+  "long_title": "projet de loi autorisant la ratification de l'accord-cadre entre l'Union européenne et ses Etats membres, d'une part, et la République de Corée, d'autre part",
+  "short_title": "Accord-cadre UE - République de Corée",
+  "steps": [
+    {
+      "date": "2013-06-19",
+      "directory": "00_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2013-06-19",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl12-678.html",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2013-07-03",
+      "directory": "01_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2013-07-16",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "01_1èrelecture_senat_commission/interventions",
+      "intervention_files": [
+        "2013-07-16T1èreséance_9733"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl12-765.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_senat_depot/texte"
+    },
+    {
+      "date": "2013-07-25",
+      "directory": "02_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2013-07-25",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "02_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas12-207.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2013-07-26",
+      "directory": "03_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2013-07-26",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/projets/pl1331.asp",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2013-10-16",
+      "directory": "04_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2013-10-16",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/rapports/r1465.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "date": "2013-10-16",
+      "directory": "05_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2013-10-31",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "05_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2013-10-31T09:30_2299"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "05_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0228.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2013-11-13",
+      "echec": null,
+      "enddate": "2013-11-13",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028193885",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/accord-cadre_Coree.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl12-678.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028193885"
+}

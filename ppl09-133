@@ -1,0 +1,171 @@
+{
+  "beginning": "2009-12-03",
+  "end": "2010-06-09",
+  "long_title": "proposition de loi relative à la création des maisons d'assistants maternels",
+  "short_title": "Assistants maternels",
+  "steps": [
+    {
+      "date": "2009-12-03",
+      "directory": "00_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2009-12-03",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl09-133.html",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2009-12-09",
+      "directory": "01_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2010-01-13",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "01_1èrelecture_senat_commission/interventions",
+      "intervention_files": [
+        "2009-12-22T1èreséance_4170",
+        "2010-01-13T1èreséance_5069"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/ppl09-186.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_senat_hemicycle/amendements",
+      "date": "2010-01-14",
+      "directory": "02_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2010-01-14",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "02_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2010-01-14T15:00_882"
+      ],
+      "nb_amendements": 25,
+      "resulting_text_directory": "02_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas09-053.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2010-01-15",
+      "directory": "03_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2010-01-15",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/propositions/pion2224.asp",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2010-01-15",
+      "directory": "04_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2010-04-07",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "04_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2010-04-07T16:00_3461"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r2445-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2010-04-29",
+      "directory": "05_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2010-05-04",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "05_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2010-05-04T15:00_3494",
+        "2010-04-29T15:00_3488",
+        "2010-04-29T09:45_3486"
+      ],
+      "nb_amendements": 50,
+      "resulting_text_directory": "05_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0456.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2010-05-04",
+      "directory": "06_2èmelecture_senat_depot",
+      "echec": null,
+      "enddate": "2010-05-04",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "06_2èmelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl09-425.html",
+      "stage": "2ème lecture",
+      "step": "depot",
+      "working_text_directory": "05_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2010-05-19",
+      "directory": "07_2èmelecture_senat_commission",
+      "echec": null,
+      "enddate": "2010-05-19",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "07_2èmelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/ppl09-467.html",
+      "stage": "2ème lecture",
+      "step": "commission",
+      "working_text_directory": "06_2èmelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "08_2èmelecture_senat_hemicycle/amendements",
+      "date": "2010-05-27",
+      "directory": "08_2èmelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2010-05-27",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "08_2èmelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2010-05-27T09:30_124"
+      ],
+      "nb_amendements": 7,
+      "resulting_text_directory": "08_2èmelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas09-109.html",
+      "stage": "2ème lecture",
+      "step": "hemicycle",
+      "working_text_directory": "07_2èmelecture_senat_commission/texte"
+    },
+    {
+      "date": "2010-06-09",
+      "echec": null,
+      "enddate": "2010-06-09",
+      "institution": "gouvernement",
+      "source_url": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022323975",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/maisons_assistants_maternels.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/ppl09-133.html",
+  "url_jo": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022323975"
+}

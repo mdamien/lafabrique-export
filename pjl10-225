@@ -1,0 +1,172 @@
+{
+  "beginning": "2010-09-15",
+  "end": "2010-09-15",
+  "long_title": "projet de loi portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière de santé, de travail et de communications électroniques",
+  "short_title": "Droit de l'Union européenne",
+  "steps": [
+    {
+      "date": "2010-09-15",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2010-09-15",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/projets/pl2789.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2010-09-15",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2010-12-15",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "01_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2010-12-15T09:45_4503",
+        "2010-11-30T21:00_4451"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r3036-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2011-01-13",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2011-01-13",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2011-01-13T21:30_4560"
+      ],
+      "nb_amendements": 50,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0594.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2011-01-14",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2011-01-14",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl10-225.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "amendement_directory": "04_1èrelecture_senat_commission/amendements",
+      "date": "2011-01-19",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2011-02-02",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "04_1èrelecture_senat_commission/interventions",
+      "intervention_files": [
+        "2011-02-02T1èreséance_4299",
+        "2011-01-26T1èreséance_2364",
+        "2011-01-19T1èreséance_2858"
+      ],
+      "nb_amendements": 18,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl10-257.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_senat_hemicycle/amendements",
+      "date": "2011-02-10",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2011-02-10",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "05_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2011-02-10T14:45_555"
+      ],
+      "nb_amendements": 48,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas10-062.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2011-02-11",
+      "directory": "06_CMP_CMP_commission",
+      "echec": null,
+      "enddate": "2011-02-11",
+      "has_interventions": false,
+      "institution": "CMP",
+      "nb_amendements": 0,
+      "resulting_text_directory": "06_CMP_CMP_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl10-319.html",
+      "stage": "CMP",
+      "step": "commission",
+      "working_text_directory": "05_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2011-03-08",
+      "directory": "07_CMP_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2011-03-08",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "07_CMP_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0613.asp",
+      "stage": "CMP",
+      "step": "hemicycle",
+      "working_text_directory": "06_CMP_CMP_commission/texte"
+    },
+    {
+      "date": "2011-03-09",
+      "directory": "08_CMP_senat_hemicycle",
+      "echec": null,
+      "enddate": "2011-03-09",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "08_CMP_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2011-03-09T14:30_148",
+        "2011-07-04T14:30_827"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "08_CMP_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas10-079.html",
+      "stage": "CMP",
+      "step": "hemicycle",
+      "working_text_directory": "07_CMP_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2011-03-22",
+      "echec": null,
+      "enddate": "2011-03-22",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023751262",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "urgence",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/sante_travail_communicationselectroniques.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl10-225.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023751262"
+}

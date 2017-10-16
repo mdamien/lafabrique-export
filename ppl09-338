@@ -1,0 +1,172 @@
+{
+  "beginning": "2009-11-27",
+  "end": "2010-07-09",
+  "long_title": "proposition de loi renforçant la protection des victimes et la prévention et la répression des violences faites aux femmes",
+  "short_title": "Femmes",
+  "steps": [
+    {
+      "date": "2009-11-27",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2009-11-27",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/propositions/pion2121.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2009-11-27",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2010-02-25",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "01_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2010-01-20T13:00_3256",
+        "2010-01-27T16:15_3259",
+        "2010-02-25T14:30_3365",
+        "2010-01-13T13:00_3261",
+        "2010-02-09T17:00_3302",
+        "2010-02-02T18:00_3284"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/rapports/r2293-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2010-02-25",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2010-02-25",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2010-02-25T15:00_3368"
+      ],
+      "nb_amendements": 103,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0428.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2010-02-26",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2010-02-26",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl09-340.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2010-05-05",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2010-06-17",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/ppl09-565.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_senat_hemicycle/amendements",
+      "date": "2010-06-22",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2010-06-24",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "05_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2010-06-23T14:30_634",
+        "2010-06-22T14:30_1837",
+        "2010-06-23T21:30_635",
+        "2010-06-24T15:00_778"
+      ],
+      "nb_amendements": 63,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas09-134.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2010-06-28",
+      "directory": "06_2èmelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2010-06-28",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "06_2èmelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/propositions/pion2683.asp",
+      "stage": "2ème lecture",
+      "step": "depot",
+      "working_text_directory": "05_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2010-06-28",
+      "directory": "07_2èmelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2010-06-28",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "07_2èmelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2010-06-28T15:00_3816"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "07_2èmelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r2684-a0.asp",
+      "stage": "2ème lecture",
+      "step": "commission",
+      "working_text_directory": "06_2èmelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "08_2èmelecture_assemblee_hemicycle/amendements",
+      "date": "2010-06-29",
+      "directory": "08_2èmelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2010-06-29",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 20,
+      "resulting_text_directory": "08_2èmelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0502.asp",
+      "stage": "2ème lecture",
+      "step": "hemicycle",
+      "working_text_directory": "07_2èmelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2010-07-09",
+      "echec": null,
+      "enddate": "2010-07-09",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022454032",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/repression_violences_femmes.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/ppl09-338.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022454032"
+}

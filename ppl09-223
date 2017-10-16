@@ -1,0 +1,192 @@
+{
+  "beginning": "2009-12-03",
+  "end": "2011-01-27",
+  "long_title": "proposition de loi relative à la représentation équilibrée des femmes et des hommes au sein des conseils d'administration et de surveillance et à l'égalité professionnelle",
+  "short_title": "Egalité professionnelle",
+  "steps": [
+    {
+      "date": "2009-12-03",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2009-12-03",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/propositions/pion2140.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2009-12-03",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2010-01-20",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "01_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2009-12-22T16:00_3179",
+        "2009-12-09T11:00_3104",
+        "2010-01-20T10:00_3220"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/rapports/r2205-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2010-01-20",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2010-01-20",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2010-01-20T15:00_3221"
+      ],
+      "nb_amendements": 79,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0394.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2010-01-21",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2010-01-21",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl09-223.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2010-02-16",
+      "directory": "04_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2010-02-16",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl09-291.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_senat_commission/amendements",
+      "date": "2010-03-24",
+      "directory": "05_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2010-10-13",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "05_1èrelecture_senat_commission/interventions",
+      "intervention_files": [
+        "2010-04-07T1èreséance_3783"
+      ],
+      "nb_amendements": 1,
+      "resulting_text_directory": "05_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/ppl10-039.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "04_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "06_1èrelecture_senat_hemicycle/amendements",
+      "date": "2010-10-27",
+      "directory": "06_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2010-10-27",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "06_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2010-04-29T09:00_739",
+        "2010-10-27T14:30_1417"
+      ],
+      "nb_amendements": 45,
+      "resulting_text_directory": "06_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas10-011.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "05_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2010-10-28",
+      "directory": "07_2èmelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2010-10-28",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "07_2èmelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/propositions/pion2923.asp",
+      "stage": "2ème lecture",
+      "step": "depot",
+      "working_text_directory": "06_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2010-10-28",
+      "directory": "08_2èmelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2011-01-12",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "08_2èmelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2009-12-22T16:00_3179",
+        "2010-12-15T09:00_4498",
+        "2011-01-12T21:00_4543"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "08_2èmelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r3041-a0.asp",
+      "stage": "2ème lecture",
+      "step": "commission",
+      "working_text_directory": "07_2èmelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "09_2èmelecture_assemblee_hemicycle/amendements",
+      "date": "2011-01-13",
+      "directory": "09_2èmelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2011-01-13",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "09_2èmelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2011-01-13T15:00_4556"
+      ],
+      "nb_amendements": 32,
+      "resulting_text_directory": "09_2èmelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0592.asp",
+      "stage": "2ème lecture",
+      "step": "hemicycle",
+      "working_text_directory": "08_2èmelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2011-01-27",
+      "echec": null,
+      "enddate": "2011-01-27",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023487662",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/egalite_prof_hommes_femmes.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/ppl09-223.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023487662"
+}

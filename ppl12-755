@@ -1,0 +1,118 @@
+{
+  "beginning": "2013-07-12",
+  "end": "2013-07-12",
+  "long_title": "proposition de loi fixant le nombre et la répartition des sièges de conseiller de Paris",
+  "short_title": "Conseiller de Paris",
+  "steps": [
+    {
+      "date": "2013-07-12",
+      "directory": "00_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2013-07-12",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl12-755.html",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2013-07-12",
+      "directory": "01_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2013-07-23",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "01_1èrelecture_senat_commission/interventions",
+      "intervention_files": [
+        "2013-07-23T1èreséance_9766"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/ppl12-781.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_senat_hemicycle/amendements",
+      "date": "2013-07-23",
+      "directory": "02_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2013-07-23",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "02_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2013-07-23T21:30_9772"
+      ],
+      "nb_amendements": 4,
+      "resulting_text_directory": "02_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas12-203.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2013-07-24",
+      "directory": "03_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2013-07-24",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/propositions/pion1300.asp",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2013-07-24",
+      "directory": "04_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2013-07-25",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "04_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2013-07-24T18:00_1780",
+        "2013-07-25T14:00_1786"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r1324-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2013-07-25",
+      "directory": "05_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2013-07-25",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 2,
+      "resulting_text_directory": "05_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0203.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2013-08-05",
+      "echec": null,
+      "enddate": "2013-08-05",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027805777",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "urgence",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/repartition_sieges_conseiller_Paris.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/ppl12-755.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027805777"
+}

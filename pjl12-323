@@ -1,0 +1,124 @@
+{
+  "beginning": "2013-01-30",
+  "end": "2013-01-30",
+  "long_title": "projet de loi portant prorogation du mandat des membres de l'Assemblée des Français de l'étranger",
+  "short_title": "Assemblée des Français de l'étranger",
+  "steps": [
+    {
+      "date": "2013-01-30",
+      "directory": "00_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2013-01-30",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl12-323.html",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "amendement_directory": "01_1èrelecture_senat_commission/amendements",
+      "date": "2013-01-30",
+      "directory": "01_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2013-03-13",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 2,
+      "resulting_text_directory": "01_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl12-425.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_senat_hemicycle/amendements",
+      "date": "2013-03-18",
+      "directory": "02_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2013-03-18",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "02_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2013-03-18T16:00_9284"
+      ],
+      "nb_amendements": 1,
+      "resulting_text_directory": "02_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas12-119.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2013-03-19",
+      "directory": "03_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2013-03-19",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/projets/pl0820.asp",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2013-04-03",
+      "directory": "04_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2013-05-14",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "04_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2013-04-03T10:00_1143",
+        "2013-05-14T14:00_1272"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r0900-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2013-05-14",
+      "directory": "05_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2013-05-14",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 1,
+      "resulting_text_directory": "05_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0135.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2013-06-06",
+      "decision": "conforme",
+      "echec": null,
+      "enddate": "2013-06-06",
+      "institution": "conseil constitutionnel",
+      "source_url": "http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-671-dc/decision-n-2013-671-dc-du-06-juin-2013.137229.html",
+      "stage": "constitutionnalité"
+    },
+    {
+      "date": "2013-06-13",
+      "echec": null,
+      "enddate": "2013-06-13",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027541643",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "urgence",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/prorogation_mandat_AFE.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl12-323.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027541643"
+}

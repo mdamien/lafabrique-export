@@ -1,0 +1,171 @@
+{
+  "beginning": "2010-12-15",
+  "end": "2011-06-23",
+  "long_title": "proposition de loi portant dispositions particulières relatives aux quartiers d'habitat informel et à la lutte contre l'habitat indigne dans les départements et régions d'outre-mer",
+  "short_title": "Lutte contre l'habitat indigne",
+  "steps": [
+    {
+      "date": "2010-12-15",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2010-12-15",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/propositions/pion3043.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2010-12-15",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2011-01-12",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "01_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2010-01-12T10:00_4558"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r3084-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2011-01-26",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2011-01-26",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2011-01-26T21:30_4617",
+        "2011-01-26T15:00_4601"
+      ],
+      "nb_amendements": 46,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0601.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2011-01-27",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2011-01-27",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl10-267.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "amendement_directory": "04_1èrelecture_senat_commission/amendements",
+      "date": "2011-02-16",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2011-04-13",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 42,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/ppl10-425.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_senat_hemicycle/amendements",
+      "date": "2011-05-04",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2011-05-04",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "05_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2011-02-15T21:30_329",
+        "2011-05-04T21:30_349"
+      ],
+      "nb_amendements": 9,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas10-106.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2011-05-05",
+      "directory": "06_2èmelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2011-05-05",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "06_2èmelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/propositions/pion3395.asp",
+      "stage": "2ème lecture",
+      "step": "depot",
+      "working_text_directory": "05_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2011-05-05",
+      "directory": "07_2èmelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2011-06-01",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "07_2èmelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2010-01-12T10:00_4558",
+        "2011-06-01T10:00_5029"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "07_2èmelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r3505-a0.asp",
+      "stage": "2ème lecture",
+      "step": "commission",
+      "working_text_directory": "06_2èmelecture_assemblee_depot/texte"
+    },
+    {
+      "date": "2011-06-09",
+      "directory": "08_2èmelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2011-06-09",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "08_2èmelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2011-06-09T15:00_5068"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "08_2èmelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0677.asp",
+      "stage": "2ème lecture",
+      "step": "hemicycle",
+      "working_text_directory": "07_2èmelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2011-06-23",
+      "echec": null,
+      "enddate": "2011-06-23",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024249135",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/habitat_indigne_outre-mer.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/ppl10-267.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024249135"
+}

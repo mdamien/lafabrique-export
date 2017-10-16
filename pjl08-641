@@ -1,0 +1,277 @@
+{
+  "beginning": "2009-06-03",
+  "end": "2010-07-23",
+  "long_title": "projet de loi relatif à l'application du cinquième alinéa de l'article 13 de la Constitution",
+  "short_title": "Constitution  (article 13)",
+  "steps": [
+    {
+      "date": "2009-06-03",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2009-06-03",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/projets/pl1708.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2009-06-09",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2009-09-29",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "01_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2009-09-16T11:30_2627",
+        "2009-09-29T21:15_2635",
+        "2009-09-15T14:15_2595"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r1923-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2009-09-29",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2009-09-29",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2009-09-29T21:30_2643"
+      ],
+      "nb_amendements": 14,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0345.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2009-09-30",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2009-09-30",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl08-641.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2009-09-30",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2009-12-08",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl09-143.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_senat_hemicycle/amendements",
+      "date": "2009-12-21",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2009-12-21",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "05_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2009-12-21T14:30_1863"
+      ],
+      "nb_amendements": 2,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas09-047.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2009-12-21",
+      "directory": "06_2èmelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2009-12-21",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "06_2èmelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/projets/pl2196.asp",
+      "stage": "2ème lecture",
+      "step": "depot",
+      "working_text_directory": "05_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2010-01-20",
+      "directory": "07_2èmelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2010-01-20",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "07_2èmelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2010-01-20T10:00_3220"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "07_2èmelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/rapports/r2241-a0.asp",
+      "stage": "2ème lecture",
+      "step": "commission",
+      "working_text_directory": "06_2èmelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "08_2èmelecture_assemblee_hemicycle/amendements",
+      "date": "2010-02-02",
+      "directory": "08_2èmelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2010-02-02",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "08_2èmelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2010-02-02T15:00_3264"
+      ],
+      "nb_amendements": 2,
+      "resulting_text_directory": "08_2èmelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0403.asp",
+      "stage": "2ème lecture",
+      "step": "hemicycle",
+      "working_text_directory": "07_2èmelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2010-02-02",
+      "directory": "09_2èmelecture_senat_depot",
+      "echec": null,
+      "enddate": "2010-02-02",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "09_2èmelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl09-245.html",
+      "stage": "2ème lecture",
+      "step": "depot",
+      "working_text_directory": "08_2èmelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2010-02-10",
+      "directory": "10_2èmelecture_senat_commission",
+      "echec": null,
+      "enddate": "2010-02-10",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "10_2èmelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl09-282.html",
+      "stage": "2ème lecture",
+      "step": "commission",
+      "working_text_directory": "09_2èmelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "11_2èmelecture_senat_hemicycle/amendements",
+      "date": "2010-02-25",
+      "directory": "11_2èmelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2010-02-25",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "11_2èmelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2010-02-25T09:30_281"
+      ],
+      "nb_amendements": 3,
+      "resulting_text_directory": "11_2èmelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas09-076.html",
+      "stage": "2ème lecture",
+      "step": "hemicycle",
+      "working_text_directory": "10_2èmelecture_senat_commission/texte"
+    },
+    {
+      "date": "2010-03-02",
+      "directory": "12_CMP_CMP_commission",
+      "echec": null,
+      "enddate": "2010-03-02",
+      "has_interventions": false,
+      "institution": "CMP",
+      "nb_amendements": 0,
+      "resulting_text_directory": "12_CMP_CMP_commission/texte",
+      "source_url": "http://www.senat.fr/rap/l09-401/l09-401.html",
+      "stage": "CMP",
+      "step": "commission",
+      "working_text_directory": "11_2èmelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2010-05-31",
+      "directory": "13_CMP_senat_hemicycle",
+      "echec": null,
+      "enddate": "2010-05-31",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "13_CMP_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2010-05-31T15:00_1749",
+        "2010-05-31T21:30_1750"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "13_CMP_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas09-121.html",
+      "stage": "CMP",
+      "step": "hemicycle",
+      "working_text_directory": "12_CMP_CMP_commission/texte"
+    },
+    {
+      "date": "2010-05-25",
+      "directory": "14_CMP_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2010-06-15",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "14_CMP_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2010-05-25T15:00_3639"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "14_CMP_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0487.asp",
+      "stage": "CMP",
+      "step": "hemicycle",
+      "working_text_directory": "13_CMP_senat_hemicycle/texte"
+    },
+    {
+      "date": "2010-07-12",
+      "decision": "conforme",
+      "echec": null,
+      "enddate": "2010-07-12",
+      "institution": "conseil constitutionnel",
+      "source_url": "http://www.conseil-constitutionnel.fr/decision.48640.html",
+      "stage": "constitutionnalité"
+    },
+    {
+      "date": "2010-07-23",
+      "echec": null,
+      "enddate": "2010-07-23",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022511164",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/po_al_5_art_13_Const.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl08-641.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022511164"
+}

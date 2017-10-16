@@ -1,0 +1,166 @@
+{
+  "beginning": "2013-09-30",
+  "end": "2013-10-02",
+  "long_title": "proposition de loi tendant à renforcer la lutte contre la contrefaçon",
+  "short_title": "Contrefaçon",
+  "steps": [
+    {
+      "date": "2013-09-30",
+      "directory": "00_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2013-09-30",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl12-866.html",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2013-10-02",
+      "directory": "01_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2013-11-13",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/ppl13-134.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_senat_hemicycle/amendements",
+      "date": "2013-11-20",
+      "directory": "02_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2013-11-20",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "02_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2013-11-20T14:30_10250"
+      ],
+      "nb_amendements": 34,
+      "resulting_text_directory": "02_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas13-033.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2013-11-21",
+      "directory": "03_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2013-11-21",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/propositions/pion1575.asp",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "amendement_directory": "04_1èrelecture_assemblee_commission/amendements",
+      "date": "2013-11-21",
+      "directory": "04_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2014-02-04",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "04_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2014-02-04T14:00_2802",
+        "2014-01-22T10:30_2726"
+      ],
+      "nb_amendements": 78,
+      "resulting_text_directory": "04_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r1720-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2014-02-04",
+      "directory": "05_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2014-02-04",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "05_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2014-02-04T15:00_2804"
+      ],
+      "nb_amendements": 76,
+      "resulting_text_directory": "05_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0287.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2014-02-05",
+      "directory": "06_2èmelecture_senat_depot",
+      "echec": null,
+      "enddate": "2014-02-05",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "06_2èmelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl13-335.html",
+      "stage": "2ème lecture",
+      "step": "depot",
+      "working_text_directory": "05_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2014-02-19",
+      "directory": "07_2èmelecture_senat_commission",
+      "echec": null,
+      "enddate": "2014-02-19",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "07_2èmelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/ppl13-383.html",
+      "stage": "2ème lecture",
+      "step": "commission",
+      "working_text_directory": "06_2èmelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "08_2èmelecture_senat_hemicycle/amendements",
+      "date": "2014-02-26",
+      "directory": "08_2èmelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2014-02-26",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "08_2èmelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2014-02-26T21:30_10739"
+      ],
+      "nb_amendements": 2,
+      "resulting_text_directory": "08_2èmelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas13-090.html",
+      "stage": "2ème lecture",
+      "step": "hemicycle",
+      "working_text_directory": "07_2èmelecture_senat_commission/texte"
+    },
+    {
+      "date": "2014-03-11",
+      "echec": null,
+      "enddate": "2014-03-11",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028713776",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "urgence",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/renforcement_lutte_contrefacon.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/ppl12-866.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028713776"
+}

@@ -1,0 +1,179 @@
+{
+  "beginning": "2013-05-02",
+  "end": "2013-05-02",
+  "long_title": "projet de loi habilitant le Gouvernement à légiférer pour accélérer les projets de construction",
+  "short_title": "Projets de construction",
+  "steps": [
+    {
+      "date": "2013-05-02",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2013-05-02",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/projets/pl1017.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2013-05-15",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2013-05-21",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "01_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2013-05-21T14:00_1313",
+        "2013-05-15T16:30_1300"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r1041-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2013-05-21",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2013-05-21",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2013-05-21T15:00_1318",
+        "2013-05-21T21:30_1320"
+      ],
+      "nb_amendements": 44,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0141.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2013-05-22",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2013-05-22",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl12-604.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "amendement_directory": "04_1èrelecture_senat_commission/amendements",
+      "date": "2013-05-22",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2013-05-29",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "04_1èrelecture_senat_commission/interventions",
+      "intervention_files": [
+        "2013-05-29T1èreséance_9422"
+      ],
+      "nb_amendements": 1,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl12-609.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_senat_hemicycle/amendements",
+      "date": "2013-05-29",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2013-05-29",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "05_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2013-05-29T14:45_9428"
+      ],
+      "nb_amendements": 35,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas12-162.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2013-05-31",
+      "directory": "06_2èmelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2013-05-31",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "06_2èmelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/projets/pl1102.asp",
+      "stage": "2ème lecture",
+      "step": "depot",
+      "working_text_directory": "05_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2013-06-04",
+      "directory": "07_2èmelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2013-06-20",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "07_2èmelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2013-06-04T17:00_1448",
+        "2013-06-19T16:30_1545",
+        "2013-06-20T09:30_1829"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "07_2èmelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r1105-a0.asp",
+      "stage": "2ème lecture",
+      "step": "commission",
+      "working_text_directory": "06_2èmelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "08_2èmelecture_assemblee_hemicycle/amendements",
+      "date": "2013-06-20",
+      "directory": "08_2èmelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2013-06-20",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "08_2èmelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2013-05-21T15:00_1318",
+        "2013-05-21T21:30_1320",
+        "2013-06-20T09:30_1829"
+      ],
+      "nb_amendements": 2,
+      "resulting_text_directory": "08_2èmelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0157.asp",
+      "stage": "2ème lecture",
+      "step": "hemicycle",
+      "working_text_directory": "07_2èmelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2013-07-01",
+      "echec": null,
+      "enddate": "2013-07-01",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027646242",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "urgence",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/habilitation_legislative_acceleration_projets_de_construction.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl12-604.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027646242"
+}

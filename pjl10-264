@@ -1,0 +1,171 @@
+{
+  "beginning": "2011-01-26",
+  "end": "2011-03-31",
+  "long_title": "projet de loi organique portant diverses mesures de nature organique relatives aux collectivités régies par l'article 73 de la Constitution",
+  "short_title": "Collectivités de l'article 73 de la Constitution (texte organique)",
+  "steps": [
+    {
+      "date": "2011-01-26",
+      "directory": "00_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2011-01-26",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl10-264.html",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "amendement_directory": "01_1èrelecture_senat_commission/amendements",
+      "date": "2011-03-30",
+      "directory": "01_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2011-05-11",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "01_1èrelecture_senat_commission/interventions",
+      "intervention_files": [
+        "2011-05-11T1èreséance_4742"
+      ],
+      "nb_amendements": 22,
+      "resulting_text_directory": "01_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl10-468.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_senat_hemicycle/amendements",
+      "date": "2011-05-12",
+      "directory": "02_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2011-05-12",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 23,
+      "resulting_text_directory": "02_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas10-113.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2011-05-12",
+      "directory": "03_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2011-05-12",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/projets/pl3436.asp",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2011-05-25",
+      "directory": "04_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2011-06-28",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "04_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2011-06-22T09:30_5136",
+        "2011-06-28T14:00_5156"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r3554-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2011-06-28",
+      "directory": "05_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2011-06-28",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 6,
+      "resulting_text_directory": "05_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0697.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2011-06-29",
+      "directory": "06_CMP_CMP_commission",
+      "echec": null,
+      "enddate": "2011-07-05",
+      "has_interventions": false,
+      "institution": "CMP",
+      "nb_amendements": 0,
+      "resulting_text_directory": "06_CMP_CMP_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl10-716.html",
+      "stage": "CMP",
+      "step": "commission",
+      "working_text_directory": "05_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "amendement_directory": "07_CMP_senat_hemicycle/amendements",
+      "date": "2011-07-11",
+      "directory": "07_CMP_senat_hemicycle",
+      "echec": null,
+      "enddate": "2011-07-11",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "07_CMP_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2011-07-11T10:00_647"
+      ],
+      "nb_amendements": 2,
+      "resulting_text_directory": "07_CMP_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas10-167.html",
+      "stage": "CMP",
+      "step": "hemicycle",
+      "working_text_directory": "06_CMP_CMP_commission/texte"
+    },
+    {
+      "date": "2011-07-12",
+      "directory": "08_CMP_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2011-07-12",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "08_CMP_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0718.asp",
+      "stage": "CMP",
+      "step": "hemicycle",
+      "working_text_directory": "07_CMP_senat_hemicycle/texte"
+    },
+    {
+      "date": "2011-07-21",
+      "decision": "partiellement conforme",
+      "echec": null,
+      "enddate": "2011-07-21",
+      "institution": "conseil constitutionnel",
+      "source_url": "http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2011/2011-636-dc/decision-n-2011-636-dc-du-21-juillet-2011.98872.html",
+      "stage": "constitutionnalité"
+    },
+    {
+      "date": "2011-07-27",
+      "echec": null,
+      "enddate": "2011-07-27",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024403675",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "urgence",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/collectivites_article73_constitution.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl10-264.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024403675"
+}

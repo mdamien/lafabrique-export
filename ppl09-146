@@ -1,0 +1,163 @@
+{
+  "beginning": "2009-12-08",
+  "end": "2011-06-15",
+  "long_title": "proposition de loi tendant à proroger le mandat des conseillers à l'Assemblée des Français de l'étranger",
+  "short_title": "Assemblée des Français de l'étranger",
+  "steps": [
+    {
+      "date": "2009-12-08",
+      "directory": "00_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2009-12-08",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl09-146.html",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2010-12-21",
+      "directory": "01_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2011-01-12",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/ppl10-219.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_senat_depot/texte"
+    },
+    {
+      "date": "2011-01-26",
+      "directory": "02_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2011-01-26",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "02_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2011-01-26T21:30_1427",
+        "2010-09-28T14:30_134",
+        "2011-01-26T14:30_1426"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "02_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas10-053.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2011-01-26",
+      "directory": "03_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2011-01-26",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/propositions/pion3115.asp",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2011-01-26",
+      "directory": "04_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2011-03-30",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "04_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2011-03-30T10:00_4812"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r3285-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "date": "2011-04-07",
+      "directory": "05_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2011-04-07",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "05_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2011-04-07T09:30_4842"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "05_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0643.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2011-04-07",
+      "directory": "06_2èmelecture_senat_depot",
+      "echec": null,
+      "enddate": "2011-04-07",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "06_2èmelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl10-412.html",
+      "stage": "2ème lecture",
+      "step": "depot",
+      "working_text_directory": "05_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2011-05-18",
+      "directory": "07_2èmelecture_senat_commission",
+      "echec": null,
+      "enddate": "2011-05-18",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "07_2èmelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/ppl10-529.html",
+      "stage": "2ème lecture",
+      "step": "commission",
+      "working_text_directory": "06_2èmelecture_senat_depot/texte"
+    },
+    {
+      "date": "2011-05-31",
+      "directory": "08_2èmelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2011-05-31",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "08_2èmelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2011-05-31T22:15_1605"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "08_2èmelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas10-125.html",
+      "stage": "2ème lecture",
+      "step": "hemicycle",
+      "working_text_directory": "07_2èmelecture_senat_commission/texte"
+    },
+    {
+      "date": "2011-06-15",
+      "echec": null,
+      "enddate": "2011-06-15",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024185260",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/mandat_conseillers_AFE.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/ppl09-146.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024185260"
+}

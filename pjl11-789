@@ -1,0 +1,171 @@
+{
+  "beginning": "2012-09-28",
+  "end": "2012-09-28",
+  "long_title": "projet de loi relatif à la retenue pour vérification du droit au séjour et modifiant le délit d'aide au séjour irrégulier pour en exclure les actions humanitaires et désintéressées",
+  "short_title": "Droit au séjour",
+  "steps": [
+    {
+      "date": "2012-09-28",
+      "directory": "00_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2012-09-28",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl11-789.html",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "amendement_directory": "01_1èrelecture_senat_commission/amendements",
+      "date": "2012-09-28",
+      "directory": "01_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2012-10-24",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 23,
+      "resulting_text_directory": "01_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl12-086.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_senat_hemicycle/amendements",
+      "date": "2012-11-08",
+      "directory": "02_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2012-11-08",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "02_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2012-11-08T21:45_8581",
+        "2012-11-08T15:00_8580",
+        "2012-10-01T14:30_8401"
+      ],
+      "nb_amendements": 41,
+      "resulting_text_directory": "02_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas12-024.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2012-11-09",
+      "directory": "03_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2012-11-09",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/projets/pl0351.asp",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2012-11-28",
+      "directory": "04_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2012-11-28",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "04_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2012-11-28T09:30_576"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r0463-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2012-12-11",
+      "directory": "05_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2012-12-11",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "05_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2012-12-11T21:30_644",
+        "2012-12-11T15:00_643"
+      ],
+      "nb_amendements": 84,
+      "resulting_text_directory": "05_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0061.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2012-12-12",
+      "directory": "06_CMP_CMP_commission",
+      "echec": null,
+      "enddate": "2012-12-13",
+      "has_interventions": false,
+      "institution": "CMP",
+      "nb_amendements": 0,
+      "resulting_text_directory": "06_CMP_CMP_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl12-228.html",
+      "stage": "CMP",
+      "step": "commission",
+      "working_text_directory": "05_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2012-12-19",
+      "directory": "07_CMP_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2012-12-19",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "07_CMP_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2012-12-19T15:00_703"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "07_CMP_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0069.asp",
+      "stage": "CMP",
+      "step": "hemicycle",
+      "working_text_directory": "06_CMP_CMP_commission/texte"
+    },
+    {
+      "date": "2012-12-20",
+      "directory": "08_CMP_senat_hemicycle",
+      "echec": null,
+      "enddate": "2012-12-20",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "08_CMP_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2012-12-20T15:00_8810"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "08_CMP_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas12-066.html",
+      "stage": "CMP",
+      "step": "hemicycle",
+      "working_text_directory": "07_CMP_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2012-12-31",
+      "echec": null,
+      "enddate": "2012-12-31",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026871211",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "urgence",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/retention_delit_aide_sejour_irregulier.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl11-789.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026871211"
+}

@@ -1,0 +1,193 @@
+{
+  "beginning": "2012-08-29",
+  "end": "2012-10-26",
+  "long_title": "projet de loi portant création des emplois d'avenir",
+  "short_title": "Emplois d'avenir",
+  "steps": [
+    {
+      "date": "2012-08-29",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2012-08-29",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/projets/pl0146.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2012-08-29",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2012-09-05",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "01_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2012-09-04T11:30_122",
+        "2012-09-04T14:30_123",
+        "2012-09-04T21:00_124"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r0148-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2012-09-11",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2012-09-12",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2012-09-11T15:00_197",
+        "2012-09-12T21:30_132",
+        "2012-09-12T15:00_131",
+        "2012-09-11T21:30_198"
+      ],
+      "nb_amendements": 356,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0015.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2012-09-13",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2012-09-13",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl11-760.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "amendement_directory": "04_1èrelecture_senat_commission/amendements",
+      "date": "2012-09-18",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2012-09-25",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "04_1èrelecture_senat_commission/interventions",
+      "intervention_files": [
+        "2012-09-25T3èmeséance_8398",
+        "2012-09-20T1èreséance_8377",
+        "2012-09-12T1èreséance_8371"
+      ],
+      "nb_amendements": 57,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl11-769.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_senat_hemicycle/amendements",
+      "date": "2012-09-25",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2012-09-25",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "05_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2012-09-24T14:30_8378",
+        "2012-09-24T21:30_8391",
+        "2012-09-25T09:30_8382",
+        "2012-09-25T14:30_8393"
+      ],
+      "nb_amendements": 113,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas11-142.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2012-09-26",
+      "directory": "06_CMP_CMP_commission",
+      "echec": null,
+      "enddate": "2012-09-26",
+      "has_interventions": false,
+      "institution": "CMP",
+      "nb_amendements": 0,
+      "resulting_text_directory": "06_CMP_CMP_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl12-002.html",
+      "stage": "CMP",
+      "step": "commission",
+      "working_text_directory": "05_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2012-10-04",
+      "directory": "07_CMP_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2012-10-09",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "07_CMP_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2012-10-09T15:00_207",
+        "2012-10-04T09:30_185"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "07_CMP_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0019.asp",
+      "stage": "CMP",
+      "step": "hemicycle",
+      "working_text_directory": "06_CMP_CMP_commission/texte"
+    },
+    {
+      "amendement_directory": "08_CMP_senat_hemicycle/amendements",
+      "date": "2012-10-09",
+      "directory": "08_CMP_senat_hemicycle",
+      "echec": null,
+      "enddate": "2012-10-09",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "08_CMP_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2012-10-09T21:30_8441"
+      ],
+      "nb_amendements": 3,
+      "resulting_text_directory": "08_CMP_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas12-008.html",
+      "stage": "CMP",
+      "step": "hemicycle",
+      "working_text_directory": "07_CMP_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2012-10-24",
+      "decision": "partiellement conforme",
+      "echec": null,
+      "enddate": "2012-10-24",
+      "institution": "conseil constitutionnel",
+      "source_url": "http://www.conseil-constitutionnel.fr/conseil-constitutionnel/decision-n-2012-656-dc-du-24-octobre-2012.115884.html",
+      "stage": "constitutionnalité"
+    },
+    {
+      "date": "2012-10-26",
+      "echec": null,
+      "enddate": "2012-10-26",
+      "institution": "gouvernement",
+      "source_url": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026536632",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "Normale",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/creation_emplois_avenir.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl11-760.html",
+  "url_jo": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026536632"
+}

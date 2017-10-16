@@ -1,0 +1,169 @@
+{
+  "beginning": "2013-02-20",
+  "end": "2013-03-20",
+  "long_title": "projet de loi portant diverses dispositions d'adaptation dans le domaine de la justice en application du droit de l'Union européenne et des engagements internationaux de la France",
+  "short_title": "Justice",
+  "steps": [
+    {
+      "date": "2013-02-20",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2013-02-20",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/projets/pl0736.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "date": "2013-02-21",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2013-05-15",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "01_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2013-05-15T14:00_1277"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r0840-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2013-05-15",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2013-05-15",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2013-05-15T15:00_1293"
+      ],
+      "nb_amendements": 33,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0137.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2013-05-16",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2013-05-16",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl12-582.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "amendement_directory": "04_1èrelecture_senat_commission/amendements",
+      "date": "2013-05-21",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2013-05-22",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 20,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl12-597.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_senat_hemicycle/amendements",
+      "date": "2013-05-27",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2013-05-27",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "05_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2013-05-27T15:00_9406"
+      ],
+      "nb_amendements": 8,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas12-152.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2013-05-28",
+      "directory": "06_CMP_CMP_commission",
+      "echec": null,
+      "enddate": "2013-05-28",
+      "has_interventions": false,
+      "institution": "CMP",
+      "nb_amendements": 0,
+      "resulting_text_directory": "06_CMP_CMP_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl12-769.html",
+      "stage": "CMP",
+      "step": "commission",
+      "working_text_directory": "05_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "date": "2013-07-23",
+      "directory": "07_CMP_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2013-07-23",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "07_CMP_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2013-07-23T15:00_2140"
+      ],
+      "nb_amendements": 0,
+      "resulting_text_directory": "07_CMP_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0193.asp",
+      "stage": "CMP",
+      "step": "hemicycle",
+      "working_text_directory": "06_CMP_CMP_commission/texte"
+    },
+    {
+      "amendement_directory": "08_CMP_senat_hemicycle/amendements",
+      "date": "2013-07-25",
+      "directory": "08_CMP_senat_hemicycle",
+      "echec": null,
+      "enddate": "2013-07-25",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "08_CMP_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2013-07-25T09:30_9773"
+      ],
+      "nb_amendements": 1,
+      "resulting_text_directory": "08_CMP_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas12-209.html",
+      "stage": "CMP",
+      "step": "hemicycle",
+      "working_text_directory": "07_CMP_assemblee_hemicycle/texte"
+    },
+    {
+      "date": "2013-08-05",
+      "echec": null,
+      "enddate": "2013-08-05",
+      "institution": "gouvernement",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027805521",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "urgence",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/adaptation_justice_droit_UE.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl12-582.html",
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027805521"
+}

@@ -1,0 +1,179 @@
+{
+  "beginning": "2013-09-04",
+  "end": "2013-09-04",
+  "long_title": "projet de loi d'habilitation à prendre par ordonnances diverses mesures de simplification et de sécurisation de la vie des entreprises",
+  "short_title": "Vie des entreprises",
+  "steps": [
+    {
+      "date": "2013-09-04",
+      "directory": "00_1èrelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2013-09-04",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "00_1èrelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/projets/pl1341.asp",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
+      "amendement_directory": "01_1èrelecture_assemblee_commission/amendements",
+      "date": "2013-09-04",
+      "directory": "01_1èrelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2013-09-18",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "01_1èrelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2013-09-18T11:45_1893",
+        "2013-09-18T09:30_1878",
+        "2013-09-18T15:00_1899"
+      ],
+      "nb_amendements": 58,
+      "resulting_text_directory": "01_1èrelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r1386-a0.asp",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "00_1èrelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "02_1èrelecture_assemblee_hemicycle/amendements",
+      "date": "2013-09-18",
+      "directory": "02_1èrelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2013-10-01",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "02_1èrelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2013-10-01T15:00_2154",
+        "2013-10-01T14:45_1942",
+        "2013-10-01T21:30_1945"
+      ],
+      "nb_amendements": 63,
+      "resulting_text_directory": "02_1èrelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0215.asp",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2013-10-02",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2013-10-02",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/pjl13-028.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
+      "amendement_directory": "04_1èrelecture_senat_commission/amendements",
+      "date": "2013-10-16",
+      "directory": "04_1èrelecture_senat_commission",
+      "echec": null,
+      "enddate": "2013-12-04",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "04_1èrelecture_senat_commission/interventions",
+      "intervention_files": [
+        "2013-05-22T1èreséance_9368"
+      ],
+      "nb_amendements": 64,
+      "resulting_text_directory": "04_1èrelecture_senat_commission/texte",
+      "source_url": "http://www.senat.fr/leg/pjl13-202.html",
+      "stage": "1ère lecture",
+      "step": "commission",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
+      "amendement_directory": "05_1èrelecture_senat_hemicycle/amendements",
+      "date": "2013-12-09",
+      "directory": "05_1èrelecture_senat_hemicycle",
+      "echec": null,
+      "enddate": "2013-12-09",
+      "has_interventions": true,
+      "institution": "senat",
+      "intervention_directory": "05_1èrelecture_senat_hemicycle/interventions",
+      "intervention_files": [
+        "2013-12-09T16:00_10354"
+      ],
+      "nb_amendements": 30,
+      "resulting_text_directory": "05_1èrelecture_senat_hemicycle/texte",
+      "source_url": "http://www.senat.fr/leg/tas13-045.html",
+      "stage": "1ère lecture",
+      "step": "hemicycle",
+      "working_text_directory": "04_1èrelecture_senat_commission/texte"
+    },
+    {
+      "date": "2013-12-10",
+      "directory": "06_2èmelecture_assemblee_depot",
+      "echec": null,
+      "enddate": "2013-12-10",
+      "has_interventions": false,
+      "institution": "assemblee",
+      "nb_amendements": 0,
+      "resulting_text_directory": "06_2èmelecture_assemblee_depot/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/projets/pl1617.asp",
+      "stage": "2ème lecture",
+      "step": "depot",
+      "working_text_directory": "05_1èrelecture_senat_hemicycle/texte"
+    },
+    {
+      "amendement_directory": "07_2èmelecture_assemblee_commission/amendements",
+      "date": "2013-12-17",
+      "directory": "07_2èmelecture_assemblee_commission",
+      "echec": null,
+      "enddate": "2013-12-17",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "07_2èmelecture_assemblee_commission/interventions",
+      "intervention_files": [
+        "2013-12-17T09:00_2586"
+      ],
+      "nb_amendements": 5,
+      "resulting_text_directory": "07_2èmelecture_assemblee_commission/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r1653-a0.asp",
+      "stage": "2ème lecture",
+      "step": "commission",
+      "working_text_directory": "06_2èmelecture_assemblee_depot/texte"
+    },
+    {
+      "amendement_directory": "08_2èmelecture_assemblee_hemicycle/amendements",
+      "date": "2013-12-19",
+      "directory": "08_2èmelecture_assemblee_hemicycle",
+      "echec": null,
+      "enddate": "2013-12-19",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_directory": "08_2èmelecture_assemblee_hemicycle/interventions",
+      "intervention_files": [
+        "2013-12-19T09:30_2608"
+      ],
+      "nb_amendements": 7,
+      "resulting_text_directory": "08_2èmelecture_assemblee_hemicycle/texte",
+      "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0269.asp",
+      "stage": "2ème lecture",
+      "step": "hemicycle",
+      "working_text_directory": "07_2èmelecture_assemblee_commission/texte"
+    },
+    {
+      "date": "2014-01-02",
+      "echec": null,
+      "enddate": "2014-01-02",
+      "institution": "gouvernement",
+      "source_url": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028424785",
+      "stage": "promulgation"
+    }
+  ],
+  "type": "urgence",
+  "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/simplification_securisation_vie_entreprises.asp",
+  "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl13-028.html",
+  "url_jo": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028424785"
+}
