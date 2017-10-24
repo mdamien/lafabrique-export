@@ -238,7 +238,7 @@
       "stage": "promulgation"
     }
   ],
-  "type": "Normale",
+  "type": "urgence",
   "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/convention_fiscale_Panama.asp",
   "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl11-186.html",
   "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025053790"

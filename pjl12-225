@@ -108,7 +108,7 @@
       "stage": "promulgation"
     }
   ],
-  "type": "Normale",
+  "type": "urgence",
   "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/adhesion_UE_Croatie.asp",
   "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl12-225.html",
   "url_jo": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026998471"

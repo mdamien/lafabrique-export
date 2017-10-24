@@ -54,7 +54,7 @@
       "institution": "assemblee",
       "nb_amendements": 0,
       "resulting_text_directory": "03_1èrelecture_assemblee_depot/texte",
-      "source_url": "http://www.assemblee-nationale.fr/13/projets/pl2727.asp2727",
+      "source_url": "http://www.assemblee-nationale.fr/13/projets/pl2727.asp",
       "stage": "1ère lecture",
       "step": "depot",
       "working_text_directory": "02_1èrelecture_senat_hemicycle/texte"
@@ -92,12 +92,12 @@
       "echec": "2011-01-03",
       "enddate": "2011-01-03",
       "institution": "gouvernement",
-      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do",
+      "source_url": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023355700",
       "stage": "promulgation"
     }
   ],
   "type": "Normale",
   "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/roumanie_protection_civile.asp",
   "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl08-438.html",
-  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do"
+  "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023355700"
 }

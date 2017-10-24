@@ -61,6 +61,13 @@
     },
     {
       "date": "2010-07-06",
+      "institution": "assemblee",
+      "source_url": "http://www.assemblee-nationale.fr/13/rapports/r2703.asp",
+      "stage": "1ère lecture",
+      "step": "commission"
+    },
+    {
+      "date": "2010-07-12",
       "directory": "04_1èrelecture_assemblee_hemicycle",
       "echec": null,
       "enddate": "2010-07-12",

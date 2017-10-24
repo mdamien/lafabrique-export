@@ -164,7 +164,7 @@
       "stage": "promulgation"
     }
   ],
-  "type": "Normale",
+  "type": "urgence",
   "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/biologie_medicale_reforme.asp",
   "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/ppl12-243.html",
   "url_jo": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027478077"

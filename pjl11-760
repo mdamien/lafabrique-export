@@ -186,7 +186,7 @@
       "stage": "promulgation"
     }
   ],
-  "type": "Normale",
+  "type": "urgence",
   "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/creation_emplois_avenir.asp",
   "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl11-760.html",
   "url_jo": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026536632"

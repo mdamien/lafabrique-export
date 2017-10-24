@@ -264,7 +264,7 @@
       "stage": "promulgation"
     }
   ],
-  "type": "Normale",
+  "type": "urgence",
   "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/majoration_droits_construire.asp",
   "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl11-422.html",
   "url_jo": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025545176"

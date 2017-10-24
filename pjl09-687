@@ -119,7 +119,7 @@
       "stage": "promulgation"
     }
   ],
-  "type": "Normale",
+  "type": "urgence",
   "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/departement_mayotte_pjlo.asp",
   "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl09-687.html",
   "url_jo": "http://legifrance.gouv.fr/./affichTexte.do?cidTexte=JORFTEXT000023174540"

@@ -270,7 +270,7 @@
       "stage": "promulgation"
     }
   ],
-  "type": "Normale",
+  "type": "urgence",
   "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/redonner_perspectives_emploi_industriel.asp",
   "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/ppl13-007.html",
   "url_jo": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028811102"

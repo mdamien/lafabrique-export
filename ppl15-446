@@ -82,7 +82,7 @@
       "working_text_directory": "03_1erelecture_senat_depot/texte"
     }
   ],
-  "type": "Normale",
+  "type": "urgence",
   "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/renforcement_liberte_independance_pluralisme_medias.asp",
   "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/ppl15-446.html",
   "url_jo": ""

@@ -182,7 +182,7 @@
       "stage": "promulgation"
     }
   ],
-  "type": "Normale",
+  "type": "urgence",
   "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/geolocalisation.asp",
   "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl13-257.html",
   "url_jo": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028790796"

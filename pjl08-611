@@ -266,6 +266,13 @@
       "working_text_directory": "13_CMP_senat_hemicycle/texte"
     },
     {
+        "institution": "conseil constitutionnel",
+        "source_url": "http://www.conseil-constitutionnel.fr/decision/2011/2011626dc.htm",
+        "stage": "constitutionnalité",
+        "step": null,
+        "<comm>": "manquant sur le site du senat"
+    },
+    {
       "date": "2011-03-29",
       "echec": null,
       "enddate": "2011-03-29",

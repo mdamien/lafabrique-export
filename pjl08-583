@@ -79,20 +79,6 @@
     },
     {
       "date": "2010-12-21",
-      "directory": "05_1èrelecture_assemblee_hemicycle",
-      "echec": null,
-      "enddate": "2010-12-21",
-      "has_interventions": false,
-      "institution": "assemblee",
-      "nb_amendements": 0,
-      "resulting_text_directory": "05_1èrelecture_assemblee_hemicycle/texte",
-      "source_url": "http://www.assemblee-nationale.fr/13/projets/pl2561.asp",
-      "stage": "1ère lecture",
-      "step": "hemicycle",
-      "working_text_directory": "04_1èrelecture_assemblee_commission/texte"
-    },
-    {
-      "date": "2010-12-21",
       "directory": "06_1èrelecture_assemblee_hemicycle",
       "echec": null,
       "enddate": "2010-12-21",
