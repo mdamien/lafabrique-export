@@ -50,6 +50,13 @@
       "working_text_directory": "01_1èrelecture_senat_commission/texte"
     },
     {
+      "date": "2012-07-19",
+      "institution": "assemblee",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "source_url": "http://www.assemblee-nationale.fr/14/projets/pl0103.asp"
+    },
+    {
       "date": "2013-02-13",
       "directory": "03_1èrelecture_assemblee_commission",
       "echec": null,

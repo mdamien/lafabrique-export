@@ -5,6 +5,13 @@
   "short_title": "Femmes",
   "steps": [
     {
+      "date": "2009-12-25",
+      "institution": "senat",
+      "source_url": "http://www.senat.fr/leg/ppl09-118.html",
+      "stage": "1ère lecture",
+      "step": "depot"
+    },
+    {
       "date": "2009-11-27",
       "directory": "00_1èrelecture_assemblee_depot",
       "echec": null,
