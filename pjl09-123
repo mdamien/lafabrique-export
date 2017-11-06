@@ -183,12 +183,12 @@
       "echec": null,
       "enddate": "2010-06-03",
       "institution": "gouvernement",
-      "source_url": "http://legifrance.gouv.fr/./affichTexte.do?cidTexte=JORFTEXT000022308227",
+      "source_url": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022308227",
       "stage": "promulgation"
     }
   ],
   "type": "urgence",
   "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/grand_paris.asp",
   "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl09-123.html",
-  "url_jo": "http://legifrance.gouv.fr/./affichTexte.do?cidTexte=JORFTEXT000022308227"
+  "url_jo": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022308227"
 }

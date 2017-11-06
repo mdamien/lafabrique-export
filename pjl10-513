@@ -64,6 +64,13 @@
       "working_text_directory": "02_1èrelecture_senat_hemicycle/texte"
     },
     {
+      "date": "2011-09-27",
+      "institution": "assemblee",
+      "source_url": "http://www.assemblee-nationale.fr/13/rapports/r3758.asp",
+      "stage": "1ère lecture",
+      "step": "commission"
+    },
+    {
       "date": "2011-07-12",
       "directory": "04_1èrelecture_assemblee_hemicycle",
       "echec": null,

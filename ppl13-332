@@ -5,6 +5,20 @@
   "short_title": "TVA et presse",
   "steps": [
     {
+      "date": "2014-02-04",
+      "directory": "03_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2014-01-27",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl13-313.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
+    },
+    {
       "date": "2014-01-24",
       "directory": "00_1èrelecture_assemblee_depot",
       "echec": null,
@@ -49,20 +63,6 @@
       "stage": "1ère lecture",
       "step": "hemicycle",
       "working_text_directory": "01_1èrelecture_assemblee_commission/texte"
-    },
-    {
-      "date": "2014-02-04",
-      "directory": "03_1èrelecture_senat_depot",
-      "echec": null,
-      "enddate": "2014-01-27",
-      "has_interventions": false,
-      "institution": "senat",
-      "nb_amendements": 0,
-      "resulting_text_directory": "03_1èrelecture_senat_depot/texte",
-      "source_url": "http://www.senat.fr/leg/ppl13-313.html",
-      "stage": "1ère lecture",
-      "step": "depot",
-      "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
     },
     {
       "date": "2014-02-04",

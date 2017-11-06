@@ -5,6 +5,20 @@
   "short_title": "Egalité professionnelle",
   "steps": [
     {
+      "date": "2010-02-16",
+      "directory": "04_1èrelecture_senat_depot",
+      "echec": null,
+      "enddate": "2010-02-16",
+      "has_interventions": false,
+      "institution": "senat",
+      "nb_amendements": 0,
+      "resulting_text_directory": "04_1èrelecture_senat_depot/texte",
+      "source_url": "http://www.senat.fr/leg/ppl09-291.html",
+      "stage": "1ère lecture",
+      "step": "depot",
+      "working_text_directory": "03_1èrelecture_senat_depot/texte"
+    },
+    {
       "date": "2009-12-03",
       "directory": "00_1èrelecture_assemblee_depot",
       "echec": null,
@@ -69,20 +83,6 @@
       "stage": "1ère lecture",
       "step": "depot",
       "working_text_directory": "02_1èrelecture_assemblee_hemicycle/texte"
-    },
-    {
-      "date": "2010-02-16",
-      "directory": "04_1èrelecture_senat_depot",
-      "echec": null,
-      "enddate": "2010-02-16",
-      "has_interventions": false,
-      "institution": "senat",
-      "nb_amendements": 0,
-      "resulting_text_directory": "04_1èrelecture_senat_depot/texte",
-      "source_url": "http://www.senat.fr/leg/ppl09-291.html",
-      "stage": "1ère lecture",
-      "step": "depot",
-      "working_text_directory": "03_1èrelecture_senat_depot/texte"
     },
     {
       "amendement_directory": "05_1èrelecture_senat_commission/amendements",

@@ -96,12 +96,12 @@
       "echec": null,
       "enddate": "2011-04-20",
       "institution": "gouvernement",
-      "source_url": "http://legifrance.gouv.fr/./affichTexte.do?cidTexte=JORFTEXT000023888299",
+      "source_url": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023888299",
       "stage": "promulgation"
     }
   ],
   "type": "Normale",
   "url_dossier_assemblee": "http://www.assemblee-nationale.fr/13/dossiers/bolivie_emploi_missions.asp",
   "url_dossier_senat": "http://www.senat.fr/dossier-legislatif/pjl08-429.html",
-  "url_jo": "http://legifrance.gouv.fr/./affichTexte.do?cidTexte=JORFTEXT000023888299"
+  "url_jo": "http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023888299"
 }
